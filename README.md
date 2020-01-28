@@ -1,1 +1,1 @@
-FrontACtivity FOR IITBHUAPP
+FrontActivity FOR IITBHUAPP
